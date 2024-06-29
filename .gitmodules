@@ -1,0 +1,3 @@
+[submodule "android_kernel_lge_msm8996"]
+	path = android_kernel_lge_msm8996
+	url = https://github.com/LineageOs/android_kernel_lge_msm8996
